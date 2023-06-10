@@ -8,14 +8,6 @@ class User extends Model {
     }
 }
 
-module.exports = (sequelize, DataTypes) => {
-    const User = sequelize.define("User", {
-
-    });
-
-    return User
-};
-
 User.init(
     {
         id: {
