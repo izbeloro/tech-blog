@@ -2,25 +2,25 @@
 
 ## Description
 
-This webpage was created to allow user to access data within the command line easily. The application should allow the user to view, add, and delete departments, associates and roles.
+This webpage was created to allow users to use this application as a blog. The application should also allow comments on other developers’ posts.
 
 ## Tasks
-- Presnt an interface that allows non-developers to easily view and interact with information stored in databases
-- Display the diffeerent employees in the command line.
-- Build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
+- Present the homepage, which includes existing blog posts if any have been posted; navigation links for the homepage and the dashboard; and the option to log in
+- Have the capability to navigate to different pages of the  blog
+- Follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 
 
 ## Usage
 
-![ScreenShot](./assets/pic.png)
+![ScreenShot]()
 
-https://github.com/izbeloro/emp-tracker
+https://github.com/izbeloro/tech-blog
 
 
 ## Credits
 
-- 
+- https://medium.com/hackernoon/how-to-build-a-simple-blog-using-node-js-4ccdce39e78f
 - https://www.npmjs.com/package/sequelize
 - https://www.makeareadme.com/
 
